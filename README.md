@@ -1,4 +1,4 @@
-# React-TypeScript
+# TypeScript (React 활용)
 
 - [타입스크립트 입문 강의 1탄](https://www.youtube.com/watch?v=GHHUjITelsA)
 - [타입스크립트 입문 강의 2탄](https://www.youtube.com/watch?v=V9XLst8UEtk)
